@@ -24,4 +24,4 @@ def get_numbers_ticket(min, max, quantity):
 
 
 lottery_numbers = get_numbers_ticket(min=1, max=49, quantity=6)
-print("Ваші лотерейні числа:", lottery_numbers)
+print("Your lottery numbers:", lottery_numbers)
